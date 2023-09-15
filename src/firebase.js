@@ -5,7 +5,7 @@
     import {getStorage} from "firebase/storage"
 
     const firebaseConfig = {
-    apiKey: use yours ,
+    apiKey: "AIzaSyDzF1YCmi2Q7ofXaOGDCMEwRaRX4JfepSw" ,
     authDomain: "fbdatabase-2ffec.firebaseapp.com",
     projectId: "fbdatabase-2ffec",
     storageBucket: "fbdatabase-2ffec.appspot.com",
