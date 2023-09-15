@@ -14,9 +14,9 @@ import Table from '../../components/Table/Table';
                 <Navbar />
                 <div className="widgets">
                     <Widgets type='user'/>
+                    <Widgets type='product'/>
                     <Widgets type='order'/>
                     <Widgets type='earning'/>
-                    <Widgets type='balance'/>
                 </div>
                 <div className="charts">
                     <Featured />
